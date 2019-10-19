@@ -1,0 +1,19 @@
+My Company 
+Address
+123 Melbourne St
+Melbourne
+ABN : 123456789
+
+-------------------
+Employee Detail
+ 
+-------------------
+
+Pay Period:	1 March - 31 March
+
+Gross Pay:	1200
+Tax:		120
+
+Super:		120
+
+Net Income:	1080

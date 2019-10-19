@@ -1,0 +1,19 @@
+My Company 
+Address
+123 Melbourne St
+Melbourne
+ABN : 123456789
+
+-------------------
+Employee Detail
+Bikram Shrestha
+-------------------
+
+Pay Period:	1 May - 20 June
+
+Gross Pay:	9795
+Tax:		2221
+
+Super:		882
+
+Net Income:	7574
